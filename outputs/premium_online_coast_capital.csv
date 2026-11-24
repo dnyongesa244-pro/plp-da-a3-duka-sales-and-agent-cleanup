@@ -1,0 +1,105 @@
+order_id,order_date,branch,product,units,unit_price,channel,revenue,month,weekday,is_weekend,price_band
+DU00001,2026-04-02,Nairobi CBD,Smartphone,1,35000,Online,35000,April,Thursday,False,Premium
+DU00008,2026-04-15,Nairobi CBD,Smartphone,1,35000,Online,35000,April,Wednesday,False,Premium
+DU00024,2026-02-25,Mombasa,Laptop,1,72000,Online,72000,February,Wednesday,False,Premium
+DU00061,2026-03-14,Nairobi CBD,Tablet,2,28000,Online,56000,March,Saturday,True,Premium
+DU00062,2026-02-18,Mombasa,Smartphone,1,35000,Online,35000,February,Wednesday,False,Premium
+DU00063,2026-04-29,Nairobi CBD,Tablet,1,28000,Online,28000,April,Wednesday,False,Premium
+DU00102,2026-01-10,Nairobi CBD,Smartphone,1,35000,Online,35000,January,Saturday,True,Premium
+DU00120,2026-03-22,Mombasa,Tablet,2,28000,Online,56000,March,Sunday,True,Premium
+DU00142,2026-01-03,Nairobi CBD,Tablet,1,28000,Online,28000,January,Saturday,True,Premium
+DU00144,2026-06-02,Nairobi CBD,Smartphone,1,35000,Online,35000,June,Tuesday,False,Premium
+DU00148,2026-05-28,Mombasa,Smartphone,1,35000,Online,35000,May,Thursday,False,Premium
+DU00163,2026-04-17,Mombasa,Smartphone,1,35000,Online,35000,April,Friday,False,Premium
+DU00169,2026-01-29,Nairobi West,Laptop,1,72000,Online,72000,January,Thursday,False,Premium
+DU00171,2026-05-13,Nairobi CBD,Smartphone,1,35000,Online,35000,May,Wednesday,False,Premium
+DU00172,2026-04-19,Mombasa,Smartphone,1,35000,Online,35000,April,Sunday,True,Premium
+DU00176,2026-02-23,Nairobi West,Laptop,3,72000,Online,216000,February,Monday,False,Premium
+DU00178,2026-01-30,Mombasa,Smartphone,1,35000,Online,35000,January,Friday,False,Premium
+DU00180,2026-05-18,Nairobi West,Smartphone,3,35000,Online,105000,May,Monday,False,Premium
+DU00190,2026-02-01,Nairobi CBD,Smartphone,1,35000,Online,35000,February,Sunday,True,Premium
+DU00193,2026-03-14,Nairobi CBD,Tablet,1,28000,Online,28000,March,Saturday,True,Premium
+DU00235,2026-05-13,Nairobi West,Tablet,2,28000,Online,56000,May,Wednesday,False,Premium
+DU00236,2026-03-19,Mombasa,Smartphone,1,35000,Online,35000,March,Thursday,False,Premium
+DU00237,2026-01-06,Nairobi West,Smartphone,1,35000,Online,35000,January,Tuesday,False,Premium
+DU00239,2026-06-13,Nairobi CBD,Smartphone,1,35000,Online,35000,June,Saturday,True,Premium
+DU00250,2026-02-12,Nairobi CBD,Smartphone,1,35000,Online,35000,February,Thursday,False,Premium
+DU00279,2026-01-19,Mombasa,Smartphone,1,35000,Online,35000,January,Monday,False,Premium
+DU00280,2026-02-24,Nairobi CBD,Tablet,1,28000,Online,28000,February,Tuesday,False,Premium
+DU00292,2026-05-07,Nairobi West,Smartphone,1,35000,Online,35000,May,Thursday,False,Premium
+DU00302,2026-03-23,Nairobi CBD,Smartphone,1,35000,Online,35000,March,Monday,False,Premium
+DU00306,2026-05-07,Nairobi West,Smartphone,1,35000,Online,35000,May,Thursday,False,Premium
+DU00317,2026-06-28,Nairobi CBD,Tablet,2,28000,Online,56000,June,Sunday,True,Premium
+DU00320,2026-03-24,Nairobi West,Laptop,1,72000,Online,72000,March,Tuesday,False,Premium
+DU00325,2026-01-26,Nairobi CBD,Tablet,1,28000,Online,28000,January,Monday,False,Premium
+DU00336,2026-06-19,Mombasa,Tablet,1,28000,Online,28000,June,Friday,False,Premium
+DU00347,2026-05-12,Nairobi West,Tablet,2,28000,Online,56000,May,Tuesday,False,Premium
+DU00348,2026-03-12,Nairobi CBD,Smartphone,3,35000,Online,105000,March,Thursday,False,Premium
+DU00355,2026-01-28,Nairobi CBD,Laptop,1,72000,Online,72000,January,Wednesday,False,Premium
+DU00368,2026-04-05,Mombasa,Laptop,1,72000,Online,72000,April,Sunday,True,Premium
+DU00379,2026-03-12,Mombasa,Smartphone,1,35000,Online,35000,March,Thursday,False,Premium
+DU00382,2026-03-09,Nairobi CBD,Tablet,2,28000,Online,56000,March,Monday,False,Premium
+DU00392,2026-05-24,Nairobi CBD,Smartphone,1,35000,Online,35000,May,Sunday,True,Premium
+DU00401,2026-06-20,Mombasa,Smartphone,4,35000,Online,140000,June,Saturday,True,Premium
+DU00404,2026-03-25,Nairobi CBD,Laptop,1,72000,Online,72000,March,Wednesday,False,Premium
+DU00405,2026-04-24,Mombasa,Laptop,2,72000,Online,144000,April,Friday,False,Premium
+DU00409,2026-06-26,Nairobi West,Laptop,2,72000,Online,144000,June,Friday,False,Premium
+DU00411,2026-01-04,Nairobi West,Smartphone,1,35000,Online,35000,January,Sunday,True,Premium
+DU00419,2026-05-30,Nairobi West,Laptop,1,72000,Online,72000,May,Saturday,True,Premium
+DU00426,2026-04-11,Mombasa,Smartphone,2,35000,Online,70000,April,Saturday,True,Premium
+DU00427,2026-06-16,Mombasa,Smartphone,3,35000,Online,105000,June,Tuesday,False,Premium
+DU00428,2026-01-13,Nairobi CBD,Laptop,1,72000,Online,72000,January,Tuesday,False,Premium
+DU00435,2026-05-14,Nairobi West,Laptop,1,72000,Online,72000,May,Thursday,False,Premium
+DU00436,2026-02-22,Nairobi West,Smartphone,4,35000,Online,140000,February,Sunday,True,Premium
+DU00438,2026-06-10,Nairobi West,Smartphone,1,35000,Online,35000,June,Wednesday,False,Premium
+DU00440,2026-02-25,Mombasa,Tablet,1,28000,Online,28000,February,Wednesday,False,Premium
+DU00464,2026-06-21,Nairobi CBD,Tablet,1,28000,Online,28000,June,Sunday,True,Premium
+DU00483,2026-01-28,Nairobi West,Smartphone,1,35000,Online,35000,January,Wednesday,False,Premium
+DU00499,2026-04-05,Nairobi CBD,Laptop,1,72000,Online,72000,April,Sunday,True,Premium
+DU00536,2026-03-15,Nairobi West,Smartphone,2,35000,Online,70000,March,Sunday,True,Premium
+DU00544,2026-01-14,Nairobi CBD,Laptop,2,72000,Online,144000,January,Wednesday,False,Premium
+DU00552,2026-05-09,Mombasa,Laptop,3,72000,Online,216000,May,Saturday,True,Premium
+DU00559,2026-01-14,Mombasa,Tablet,1,28000,Online,28000,January,Wednesday,False,Premium
+DU00576,2026-02-16,Mombasa,Smartphone,1,35000,Online,35000,February,Monday,False,Premium
+DU00590,2026-04-20,Mombasa,Tablet,1,28000,Online,28000,April,Monday,False,Premium
+DU00594,2026-02-11,Mombasa,Smartphone,1,35000,Online,35000,February,Wednesday,False,Premium
+DU00595,2026-06-29,Nairobi CBD,Smartphone,1,35000,Online,35000,June,Monday,False,Premium
+DU00617,2026-05-02,Nairobi CBD,Tablet,1,28000,Online,28000,May,Saturday,True,Premium
+DU00642,2026-03-04,Nairobi CBD,Tablet,1,28000,Online,28000,March,Wednesday,False,Premium
+DU00653,2026-01-06,Nairobi CBD,Tablet,2,28000,Online,56000,January,Tuesday,False,Premium
+DU00656,2026-06-24,Nairobi CBD,Smartphone,4,35000,Online,140000,June,Wednesday,False,Premium
+DU00675,2026-04-17,Nairobi West,Tablet,1,28000,Online,28000,April,Friday,False,Premium
+DU00676,2026-04-02,Nairobi West,Laptop,3,72000,Online,216000,April,Thursday,False,Premium
+DU00679,2026-05-26,Nairobi West,Laptop,1,72000,Online,72000,May,Tuesday,False,Premium
+DU00680,2026-02-16,Nairobi West,Laptop,1,72000,Online,72000,February,Monday,False,Premium
+DU00681,2026-03-12,Mombasa,Smartphone,1,35000,Online,35000,March,Thursday,False,Premium
+DU00716,2026-03-11,Nairobi CBD,Tablet,2,28000,Online,56000,March,Wednesday,False,Premium
+DU00720,2026-05-20,Nairobi CBD,Laptop,2,72000,Online,144000,May,Wednesday,False,Premium
+DU00730,2026-04-24,Nairobi CBD,Tablet,2,28000,Online,56000,April,Friday,False,Premium
+DU00735,2026-05-30,Nairobi CBD,Smartphone,3,35000,Online,105000,May,Saturday,True,Premium
+DU00736,2026-01-22,Nairobi CBD,Tablet,2,28000,Online,56000,January,Thursday,False,Premium
+DU00754,2026-04-27,Nairobi West,Smartphone,1,35000,Online,35000,April,Monday,False,Premium
+DU00766,2026-06-15,Nairobi West,Tablet,1,28000,Online,28000,June,Monday,False,Premium
+DU00769,2026-04-26,Mombasa,Laptop,1,72000,Online,72000,April,Sunday,True,Premium
+DU00791,2026-05-04,Nairobi West,Laptop,1,72000,Online,72000,May,Monday,False,Premium
+DU00836,2026-03-03,Mombasa,Laptop,1,72000,Online,72000,March,Tuesday,False,Premium
+DU00838,2026-06-06,Nairobi CBD,Laptop,1,72000,Online,72000,June,Saturday,True,Premium
+DU00844,2026-03-27,Mombasa,Smartphone,1,35000,Online,35000,March,Friday,False,Premium
+DU00848,2026-06-08,Nairobi CBD,Tablet,1,28000,Online,28000,June,Monday,False,Premium
+DU00850,2026-04-02,Nairobi CBD,Laptop,1,72000,Online,72000,April,Thursday,False,Premium
+DU00860,2026-06-12,Mombasa,Tablet,1,28000,Online,28000,June,Friday,False,Premium
+DU00876,2026-01-13,Nairobi West,Tablet,1,28000,Online,28000,January,Tuesday,False,Premium
+DU00877,2026-06-28,Nairobi West,Laptop,1,72000,Online,72000,June,Sunday,True,Premium
+DU00887,2026-03-22,Nairobi CBD,Tablet,2,28000,Online,56000,March,Sunday,True,Premium
+DU00888,2026-06-13,Nairobi West,Smartphone,1,35000,Online,35000,June,Saturday,True,Premium
+DU00907,2026-05-28,Nairobi West,Laptop,1,72000,Online,72000,May,Thursday,False,Premium
+DU00945,2026-06-25,Nairobi CBD,Laptop,1,72000,Online,72000,June,Thursday,False,Premium
+DU00946,2026-02-09,Nairobi West,Smartphone,1,35000,Online,35000,February,Monday,False,Premium
+DU00952,2026-03-25,Mombasa,Smartphone,2,35000,Online,70000,March,Wednesday,False,Premium
+DU00960,2026-01-12,Nairobi CBD,Smartphone,1,35000,Online,35000,January,Monday,False,Premium
+DU00963,2026-04-04,Mombasa,Laptop,1,72000,Online,72000,April,Saturday,True,Premium
+DU00967,2026-03-16,Nairobi West,Tablet,1,28000,Online,28000,March,Monday,False,Premium
+DU00971,2026-04-26,Nairobi West,Smartphone,2,35000,Online,70000,April,Sunday,True,Premium
+DU00987,2026-06-21,Nairobi CBD,Smartphone,2,35000,Online,70000,June,Sunday,True,Premium
+DU00995,2026-04-26,Nairobi West,Smartphone,1,35000,Online,35000,April,Sunday,True,Premium
+DU01000,2026-05-25,Mombasa,Tablet,1,28000,Online,28000,May,Monday,False,Premium

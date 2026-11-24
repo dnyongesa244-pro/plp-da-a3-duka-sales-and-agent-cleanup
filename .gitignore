@@ -1,0 +1,14 @@
+# Generated source datasets (regenerate with generate_data.py)
+/duka_sales.csv
+/agents.csv
+/agent_transactions.csv
+
+# Python and notebook runtime files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local environments and OS files
+.venv/
+venv/
+.DS_Store
